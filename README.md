@@ -1,2 +1,0 @@
-# Django-Tutorial
-Learning Django
